@@ -4,4 +4,6 @@ The SpeedBlog theme is suitable for all types of **blogs**. It is based on **Pur
 
 However there are many issues as for now, which would be fixed as time passes.
 
+![Homepage](/preview/SpeedBlog Homepage.png)
+
 Meadwhile, if you love technology and gadgets, read my blog at [ByteKid](http://ByteKid.com)
